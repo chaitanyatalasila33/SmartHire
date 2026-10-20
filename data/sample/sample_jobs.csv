@@ -1,0 +1,9 @@
+job_id,title,company,location,skills,description,experience
+1,Junior Data Scientist,Demo Analytics Lab,Hyderabad,"Python, pandas, NumPy, scikit-learn, statistics","Build baseline predictive models, clean datasets, and communicate analytical findings.",0-2 years
+2,Data Analyst Intern,Sample Insights,Remote,"SQL, Excel, Power BI, Python, dashboards","Prepare reports, clean business data, and build dashboards for stakeholders.",Fresher
+3,Frontend Developer Intern,Demo Web Studio,Bengaluru,"HTML, CSS, JavaScript, React, responsive design","Implement accessible responsive interfaces and connect frontend pages to APIs.",Fresher
+4,Backend Developer Trainee,Example Software,Guntur,"Java, Spring Boot, REST APIs, SQL, Git","Build and test backend services, APIs, and database integrations.",0-1 years
+5,Machine Learning Intern,Sample AI Works,Remote,"Python, pandas, scikit-learn, model evaluation, statistics","Prepare datasets, train classical machine-learning models, and evaluate performance.",Fresher
+6,Security Analyst Trainee,Demo Secure Systems,Hyderabad,"Linux, networking, security monitoring, cryptography","Support security monitoring and document potential vulnerabilities.",0-1 years
+7,Full Stack Developer Intern,Practice Apps,Remote,"HTML, CSS, JavaScript, React, Java, REST APIs, SQL","Develop and test web application features across frontend and backend.",Fresher
+8,BI Analyst Trainee,Example Business Data,Vijayawada,"SQL, Excel, Power BI, data visualization, reporting","Transform business data into dashboards and recurring reports.",Fresher
